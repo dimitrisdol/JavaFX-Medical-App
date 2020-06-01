@@ -1,0 +1,4 @@
+INSERT INTO doctor(first_name, last_name, job_id, email, phone_number, salary ) VALUES('George', 'Kotis', 'Surgeon', 'gkotis@gmail.com', '6945345614', '2400');
+INSERT INTO doctor(first_name, last_name, job_id, email, phone_number, salary ) VALUES('John', 'Dimos', 'Nurse', 'jdim@gmail.com', '6946745614', '1300');
+INSERT INTO doctor(first_name, last_name, job_id, email, phone_number, salary ) VALUES('Dimitris', 'Oikomou', 'Cardiologist', 'dok@gmail.com', '6945334754', '2100');
+INSERT INTO doctor(first_name, last_name, job_id, email, phone_number, salary ) VALUES('Maria', 'Petrou', 'Pediatrician', 'mpetrou@gmail.com', '6933345590', '1900');

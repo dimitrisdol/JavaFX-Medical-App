@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.ButtonController">
+   <children>
+      <AnchorPane layoutX="252.0" layoutY="-7.0" prefHeight="614.0" prefWidth="658.0" style="-fx-background-image: url('https://wallpaperaccess.com/full/1282799.jpg'); -fx-background-size: cover; -fx-background-repeat: no-repeat; -fx-background-color: #E6E6FA;" />
+      <AnchorPane layoutX="-9.0" layoutY="-7.0" prefHeight="600.0" prefWidth="270.0" style="-fx-background-color: DBECF7;">
+         <children>
+            <Button fx:id="buttonDoctors" layoutX="9.0" layoutY="110.0" mnemonicParsing="false" onAction="#DoctorScene" prefHeight="71.0" prefWidth="261.0" text="Doctors" />
+            <Button fx:id="buttonPatients" layoutX="9.0" layoutY="181.0" mnemonicParsing="false" onAction="#PatientScene" prefHeight="71.0" prefWidth="261.0" text="Patients" />
+            <Button fx:id="buttonAppointments" layoutX="9.0" layoutY="252.0" mnemonicParsing="false" onAction="#AppointmentScene" prefHeight="71.0" prefWidth="261.0" text="Appointments" />
+            <Button fx:id="buttonCures" layoutX="9.0" layoutY="323.0" mnemonicParsing="false" onAction="#CureScene" prefHeight="71.0" prefWidth="261.0" text="Diagnoses-Cures" />
+            <Button fx:id="buttonLogout" layoutX="9.0" layoutY="543.0" mnemonicParsing="false" onAction="#LogoutScene" prefHeight="71.0" prefWidth="261.0" style="-fx-border-style: solid;" text="Logout" />
+            <Label layoutX="94.0" layoutY="53.0" text="eHospital">
+               <font>
+                  <Font name="System Bold Italic" size="17.0" />
+               </font>
+            </Label>
+         </children>
+         <effect>
+            <DropShadow />
+         </effect>
+      </AnchorPane>
+   </children>
+</AnchorPane>

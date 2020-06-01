@@ -1,0 +1,2 @@
+INSERT INTO diagnoses(patient_id, doctor_id, cure, cured) VALUES('1', '3', 'The patient was cured after providing him with X-Drug.', '1');
+INSERT INTO diagnoses(patient_id, doctor_id, cure, cured) VALUES('2', '2', 'The patient has not cured yet and is now being moved into ICU to help them with their oxygen supply.', '0');

@@ -1,0 +1,3 @@
+INSERT INTO patient(patient_name, patient_lname, sickness, email, phone_number) VALUES ('Jim', 'Dol', 'myocarditis', 'jdol@gmail.com','6942855812');
+INSERT INTO patient(patient_name, patient_lname, sickness, email, phone_number) VALUES ('Iro', 'Konstan', 'covid-19', 'irokon@gmail.com','6912823412');
+INSERT INTO patient(patient_name, patient_lname, sickness, email, phone_number) VALUES ('Nick', 'Pager', 'broken ribs', 'jfdfd@yahoo.com','6932321574');
