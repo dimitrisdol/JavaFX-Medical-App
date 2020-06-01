@@ -26,7 +26,7 @@ import static controllers.DoctorController.isEmailValid;
 
 /**
  *
- * @author Mike Koukias
+ * @author Dimitris Dologlou
  */
 public class PatientController implements Initializable {
 
