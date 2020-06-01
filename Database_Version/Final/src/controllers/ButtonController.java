@@ -21,7 +21,7 @@ import java.sql.ResultSet;
 
 /**
  *
- * @author Mike Koukias
+ * @author Dimitris Dologlou
  */
 public class ButtonController {
 
