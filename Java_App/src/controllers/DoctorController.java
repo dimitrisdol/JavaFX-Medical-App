@@ -26,7 +26,7 @@ import static controllers.ButtonController.infoBox;
 
 /**
  *
- * @author Mike Koukias
+ * @author Dimitris Dologlou
  */
 public class DoctorController implements Initializable {
 
