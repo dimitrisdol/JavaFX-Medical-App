@@ -18,7 +18,7 @@ import java.io.IOException;
 
 /**
  *
- * @author Mike Koukias
+ * @author Dimitris Dologlou
  */
 public class ButtonController {
 
