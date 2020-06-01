@@ -28,7 +28,7 @@ import static controllers.ButtonController.infoBox;
 
 /**
  *
- * @author Mike Koukias
+ * @author 1.01 update
  */
 public class CureController {
 
