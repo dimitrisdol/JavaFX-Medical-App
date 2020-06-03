@@ -1,6 +1,6 @@
 Installation and Run Instructions
 
-In order to run after downloading the AMC_Java project file:
+In order to run after downloading the JavaFX-Medical-App project file:
 
 IF RUN IN INTELLIJ IDEA:
 
